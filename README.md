@@ -1,3 +1,5 @@
+WARNING: I did not deploy this to any server since it will take extra time to do that but here I just listed on how to run this application in your local machine.
+
 # Email Service
 
 This service will provide an API to send to different API providers, and the same time is able to use other API when some of the API provider is not available.

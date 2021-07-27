@@ -85,6 +85,7 @@ This service will provide an API to send to different API providers, and the sam
    ``` 
 
 Sample test with success email sent with fail-over to MailJet as healthy Email provider due to issue of Nylas Email provider server issue.
+To see the error please refer in logs when you tried to send a success email. 
 
 ![alt text](https://github.com/eallanjoseph123/siteminder/blob/master/docs/success-email.png?raw=true)
 

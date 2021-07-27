@@ -95,7 +95,7 @@ Sample test with success email sent with fail-over to MailJet as healthy Email p
    1.2. MailGun ->  They are requiring a domain name and did not have a time to check it.
 ``` 
 ``` 
-2. This 2 email api providers are the easist to signup and use unlike the Sendgrid and Mailgun so in this exam these 2 are implemented:
+2. This 2 email api providers are the easiest to use/signup unlike the Sendgrid and Mailgun. These 2 api providers are implemented for this exam:
   2.1. Mailjet -> It can send to any email as long as it registered in my account.
   2.2. nylas  -> for some reason it keeps showing an error even properly passing or sending required API request and the error says please contact their support.
                  I think the only good thing for this issue is we can test if this api provider is not ok then we should use the other email api provider.

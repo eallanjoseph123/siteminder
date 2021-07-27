@@ -69,7 +69,7 @@ This service will provide an API to send to different API providers, and the sam
    RUN AGAIN the JAVA APP #2.
    ```
 
-3. Add test data API providers - execute this sql scripts to populate the api provider data.
+3. Add test data API providers - execute this sql scripts to populate the api provider data. Please make sure the docker mysql image is already up before executing these scripts.
 
 
     2.1. INSERT INTO siteminder.email_provider (id, url, status, access_token , name) VALUES (1, "https://api.nylas.com/send", "HEALTHY", "4zgAjN30f1hTJ88i4PdkcQp7055cLE","nylas")

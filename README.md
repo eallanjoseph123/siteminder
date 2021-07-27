@@ -82,7 +82,7 @@ This service will provide an API to send to different API providers, and the sam
    http://localhost:9191/swagger-ui.html
    ``` 
 
-#Sample test with success email sent
+Sample test with success email sent with fail-over to MailJet as healthy Email provider due to issue of Nylas Email provider server issue.
 
 ![alt text](https://github.com/eallanjoseph123/siteminder/blob/master/docs/success-email.png?raw=true)
 

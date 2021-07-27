@@ -6,7 +6,6 @@ This service will provide an API to send to different API providers, and the sam
 #Features
  ```
    1. Unified Email provider for SENDING EMAILS.
-   <br/>
       1.1 Use Strategy pattern to build payload request for each Email API provider.
    2. Job scheduler (not implemented yet , need extra time to implement) - This is a scheduler that flags the Email API provider as available (healthy) or not (unhealthy).
    3. API DOC - using  SWAGGER to easily play with this API and to properly document the API.
